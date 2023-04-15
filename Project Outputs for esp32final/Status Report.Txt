@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [esp32final.PrjPcb]
+   Generated File[esp32final.TXT]
+   Generated File[esp32final.LDP]
+   Generated File[esp32final.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:34:39 On 07/05/2022

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=HS2_CLK Pin=U5-3
+Removed Pin From Net: NetName=NetR9_1 Pin=U5-5
+Removed Pin From Net: NetName=HS2_CLK Pin=U5-6
+Added Pin To Net: NetName=CMD Pin=U5-3
+Added Pin To Net: NetName=CLK Pin=U5-5
+Added Pin To Net: NetName=NetR9_1 Pin=U5-6
+Added Room: Name=esp32final
